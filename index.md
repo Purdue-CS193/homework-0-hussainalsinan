@@ -11,17 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hussain Alsinan's First CS193 Homework
+## Hope you're having a great day!
+### Boiler up, hammer down!
 
-- Bulleted
-- List
+Favorite things about CS193:
+- I like how we get to create our own programming projects.
+- The class presentations are always entertaining and engaging.
 
-1. Numbered
-2. List
+1. one
+2. two
 
-**Bold** and _Italic_ and `Code` text
+_Fun Fact of the day: Purdue University is the first university-owned airport in the U.S_
+
 
 [Link](url) and ![Image](src)
 ```
