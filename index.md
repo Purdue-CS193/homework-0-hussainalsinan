@@ -12,11 +12,7 @@ Favorite things about CS193:
 _Fun Fact of the day: Purdue University is the first university-owned airport in the U.S_
 
 ```markdown
-Syntax highlighted code block
 
-
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
