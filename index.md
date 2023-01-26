@@ -4,7 +4,7 @@
 
 Favorite things about CS193:
 - I like how we get to create our own programming projects.
-- The class presentations are always entertaining and engaging.
+- The classes are always entertaining and engaging.
 
 1. one
 2. two
