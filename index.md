@@ -1,16 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Hussain Alsinan's First CS193 Homework
 ## Hope you're having a great day!
 ### Boiler up, hammer down!
@@ -23,6 +10,10 @@ Favorite things about CS193:
 2. two
 
 _Fun Fact of the day: Purdue University is the first university-owned airport in the U.S_
+
+```markdown
+Syntax highlighted code block
+
 
 
 [Link](url) and ![Image](src)
